@@ -1,0 +1,14 @@
+# common
+_site
+.DS_Store
+.vscode*
+
+# personal repos
+.gitignore	# to customize .gitignore file
+# DACONS/*
+*.pdf
+*.csv
+README.md
+
+# avoid conflicts
+git*
