@@ -8,6 +8,7 @@ _site
 # DACONS/*
 *.pdf
 *.csv
+*.txt
 README.md
 
 # avoid conflicts
